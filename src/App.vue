@@ -88,7 +88,7 @@ export default {
     align-items: center;
     text-decoration: none;
     font-size: 18px;
-    transition: all 0.5s;
+    transition: all 0.4s;
   }
 
    .botao:hover {
